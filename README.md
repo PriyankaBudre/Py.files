@@ -7,8 +7,14 @@ pipwin install pyaudio
 #install text to Speech 
 pip install pyttsx3
 
-# additional text to Speech installation for Windows
+#Additional for windows
 pip install pypiwin32 
 
 #install for text To Speech
 pip install pyttsx3
+
+#installation for below is must for faceRecognition
+cv2
+numpy as np
+face_recognition
+os
