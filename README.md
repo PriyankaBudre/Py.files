@@ -10,8 +10,6 @@ pip install pyttsx3
 #Additional for windows
 pip install pypiwin32 
 
-#install for text To Speech
-pip install pyttsx3
 
 #installation for below is must for faceRecognition
 cv2
